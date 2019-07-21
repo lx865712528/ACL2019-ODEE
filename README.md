@@ -7,6 +7,9 @@ Modify the Line 24 and 25 in `cache_features.py`.
 The fine-tune process need 2 * GTX 1080Ti, if the fine-tune process is costly or somehow failed 
 to complete, please use the initial parameters in [allennlp](https://allennlp.org/elmo).
 
+Please note that it is optional to finetune the ELMo model if you just want to complete the whole procedure
+or use the model in somewhere else.
+
 ## Prepare Data and Train Model
 
 The data is [HERE](https://drive.google.com/open?id=1KjL3mAxj9nmzqC75s2rNaT6x6CJBZZTj).
