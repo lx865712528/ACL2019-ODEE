@@ -1,0 +1,17 @@
+'CORENLP_HOME':
+  'server': '/home/liuxiao/MyShare/stanford-corenlp-full-2018-02-27'
+
+'props':
+  'annotators': 'tokenize,ssplit,pos,lemma,ner,parse,dcoref'
+  'ssplit.newlineIsSentenceBreak': 'always'
+  'pipelineLanguage': 'en'
+  'outputFormat': 'json'
+  'parse.maxlen': '100'
+
+'ref_corpus_props':
+  'annotators': 'tokenize,ssplit'
+  'ssplit.newlineIsSentenceBreak': 'always'
+  'pipelineLanguage': 'en'
+  'outputFormat': 'json'
+
+'TEXT_MAXLEN': 600

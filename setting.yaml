@@ -1,0 +1,4 @@
+'parsed_data_path':
+  'test': "/path/to/odee/dataprocessor/parsed_test"
+  'dev': "/path/to/odee/dataprocessor/parsed_dev"
+  'unlabeled': "/path/to/odee/dataprocessor/parsed_unlabeled"
