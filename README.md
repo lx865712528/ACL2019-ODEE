@@ -35,11 +35,20 @@ The data is [HERE](https://drive.google.com/open?id=1KjL3mAxj9nmzqC75s2rNaT6x6CJ
 ## Cite
 Please cite our ACL 2019 paper:
 ```bibtex
-@proceedings{liu2019open,
-    title={Open Domain Event Extraction Using Neural Latent Variable Models},
-    author={Liu, Xiao and Huang, Heyan and Zhang, Yue},
-    booktitle={Proceedings of Annual Meeting of the Association for Computational Linguistics},
-    year={2019},
-    publisher={Association for Computational Linguistics}
+@inproceedings{DBLP:conf/acl/LiuHZ19,
+  author    = {Xiao Liu and
+               Heyan Huang and
+               Yue Zhang},
+  title     = {Open Domain Event Extraction Using Neural Latent Variable Models},
+  booktitle = {Proceedings of the 57th Conference of the Association for Computational
+               Linguistics, {ACL} 2019, Florence, Italy, July 28- August 2, 2019,
+               Volume 1: Long Papers},
+  pages     = {2860--2871},
+  year      = {2019},
+  crossref  = {DBLP:conf/acl/2019-1},
+  url       = {https://www.aclweb.org/anthology/P19-1276/},
+  timestamp = {Wed, 31 Jul 2019 17:03:52 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/acl/LiuHZ19},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```
